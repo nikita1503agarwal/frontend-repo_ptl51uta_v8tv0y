@@ -10,6 +10,7 @@ function Navbar() {
           <nav className="hidden md:flex items-center gap-6 text-sky-100">
             <a href="#services" className="hover:text-white">Services</a>
             <a href="#booking" className="hover:text-white">Booking</a>
+            <a href="/admin" className="hover:text-white">Admin</a>
             <a href="/test" className="hover:text-white">System</a>
           </nav>
         </div>
